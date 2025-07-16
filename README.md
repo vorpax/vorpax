@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm vorpax</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p align="center">
-  <img width="600" src="./github-metrics.svg">
+
+<h3 align="left">My contribution metrics :</h3>
+  
+<p align="left">
+  <img  width="400" src="./github-metrics.svg">
 </p>
 
 
